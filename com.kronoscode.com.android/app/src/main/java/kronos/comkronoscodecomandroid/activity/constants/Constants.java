@@ -14,13 +14,13 @@ public class Constants {
     public static final String SOURCE_ONLINE = "online";
     public static final String SOURCE_SDCARD = "sdcard";
 
-    public static final String DEFAULT_TITLE_CACAO = "Guías de Cacao";
-    public static final String DEFAULT_WELCOME_CACAO = "Aprendiendo e innovando sobre el cacao en sistemas agroforestales";
+    public static final String DEFAULT_TITLE_CACAO = "Guías de Café";
+    public static final String DEFAULT_WELCOME_CACAO = "Caja de herramientas para café. Por una caficultura rentable y competitiva";
     public static final String LOGO_DEFAULT = "";
 
     public static final String FILE_RESULT = "result";
 
-    public static final String DEFAULT_API_URL = "http://cacaomovil.com/api/v1/";
+    public static final String DEFAULT_API_URL = "http://ihcafe.cacaomovil.com/api/v1/";
 
     public static final String FILE_MANAGER_PLAYSTORE  = "com.estrongs.android.pop&hl=en";
     public static final String ZIP_DIR = Environment.getExternalStorageDirectory().getPath() + "/zip_guias/";

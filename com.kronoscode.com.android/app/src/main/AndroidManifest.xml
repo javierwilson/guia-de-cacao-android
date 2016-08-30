@@ -50,7 +50,7 @@
 
         <provider
             android:name="com.kronoscode.cacao.android.app.provider.CacaoProvider"
-            android:authorities="com.kronoscode.cacao.android.app.provider.cacao" />
+            android:authorities="com.kronoscode.cacao.android.app.provider.ihcafe" />
 
         <activity
             android:name=".activity.activity.GuideActivity"
